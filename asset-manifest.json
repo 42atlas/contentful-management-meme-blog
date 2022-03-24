@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contentful-management-meme-blog/static/css/main.1a8a0596.css",
+    "main.js": "/contentful-management-meme-blog/static/js/main.a2aed733.js",
+    "index.html": "/contentful-management-meme-blog/index.html",
+    "main.1a8a0596.css.map": "/contentful-management-meme-blog/static/css/main.1a8a0596.css.map",
+    "main.a2aed733.js.map": "/contentful-management-meme-blog/static/js/main.a2aed733.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.a2aed733.js"
+  ]
+}
